@@ -1,0 +1,22 @@
+{
+  "name": "express-mongo-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroslavkrutiak/express-mongo-homework.git"
+  },
+  "author": "Yaroslav Krutiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaroslavkrutiak/express-mongo-homework/issues"
+  },
+  "homepage": "https://github.com/yaroslavkrutiak/express-mongo-homework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
