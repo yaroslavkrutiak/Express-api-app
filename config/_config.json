@@ -1,0 +1,21 @@
+{
+  "test": {
+    "database": "mongodb://localhost:27017/express",
+    "dbName": "express",
+    "dbConfig": {
+      "useUnifiedTopology": true,
+      "useNewUrlParser": true
+    },
+    "seed": false,
+    "debug": true
+  },
+  "local": {
+    "database": "mongodb+srv://user:userpass@cluster0.mxhim.mongodb.net",
+    "dbName": "express",
+    "seed": true,
+    "dbConfig": {
+      "useUnifiedTopology": true,
+      "useNewUrlParser": true
+    }
+  }
+}
