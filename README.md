@@ -12,7 +12,7 @@ App is listening at http://localhost:3000
 
 You can go to http://localhost:3000/todos and http://localhost:3000/users to see appropriate collection, it is provided by routing
 
-Searching todo or user `/:id` by id isn't provided 
+Searching todo or user `/:id` by id isn't implemented 
 
 You can post some todos and users using [Postman](https://www.postman.com/)
 
