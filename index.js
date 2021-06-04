@@ -1,5 +1,4 @@
 const express = require('express')
-const {getConnection, setCollectionsData} = require('./middleware')
 const {setupDummyData} = require('./utils')
 
 const todos = require('./router/todos.js')
