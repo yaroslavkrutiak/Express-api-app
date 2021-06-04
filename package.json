@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/yaroslavkrutiak/express-mongo-homework#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.12.12"
+  },
+  "devDependencies": {
+    "mongodb": "^3.6.9"
   }
 }
